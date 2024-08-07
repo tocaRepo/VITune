@@ -1,0 +1,1 @@
+Make sure to read the readme.md and the section about the folder structure!
