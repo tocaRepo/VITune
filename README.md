@@ -2,7 +2,7 @@
 
 ## Overview
 
-ViT Fine-Tuner is a Python package designed to simplify the fine-tuning of Vision Transformer (ViT) models. Leveraging the `transformers` library by Hugging Face and the `datasets` library, ViT Fine-Tuner streamlines the process of preparing datasets, setting up training arguments, and executing the fine-tuning of ViT models.
+ViT Fine-Tuner is designed to simplify the fine-tuning of Vision Transformer (ViT) models. Leveraging the `transformers` library by Hugging Face and the `datasets` library, ViT Fine-Tuner streamlines the process of preparing datasets, setting up training arguments, and executing the fine-tuning of ViT models.
 
 ## Features
 
